@@ -1,0 +1,1 @@
+target_ = obj_crybaby;

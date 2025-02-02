@@ -1,0 +1,1 @@
+instance_create_layer(obj_inimigo.x, obj_inimigo.y,"Instances", obj_dano)

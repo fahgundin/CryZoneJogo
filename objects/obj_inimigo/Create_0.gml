@@ -1,0 +1,15 @@
+vidainimigo = 10;
+cooldown = 0
+global.danoataque = random_range(1,5)
+vspd = 0 
+hspd = 0
+grv = 0.4
+knockback = sign(hspd)
+opacidadep = 0
+local_savox = x
+local_savoy = y
+chcdwn = 50
+spd = 1.5
+cooldownataque = 0
+cd = false
+alarm[0] = room_speed
